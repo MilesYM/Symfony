@@ -1,0 +1,29 @@
+{# src/YM/UserBundle/Resources/views/layout.html.twig #}
+ 
+{# On étend notre layout à nous #}
+{% extends "::layout.html.twig" %}
+
+{% block links %}{{ parent() }}
+    <link rel="stylesheet" href="{{ asset('css/styleLogin.css') }}" type="text/css" />
+{% endblock %}
+ 
+{% block body %}
+ 
+
+    <div class="container">
+
+        <div class="form-signin">
+            <h2 class="form-signin-heading">Please Sign In</h2>
+
+            {% for key, message in app.session.getFlashes() %}
+            <div class="{{ key }} span12 alert alert-error">
+                {{ message|trans({}, 'FOSUserBundle') }}
+            </div>
+            {% endfor %}
+            {% block fos_user_content %}
+            {% endblock fos_user_content %}
+        </div>
+    </div> <!-- /container -->
+{% endblock %}
+
+            

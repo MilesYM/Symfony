@@ -1,0 +1,60 @@
+ymtest_dashboard:
+    pattern:  /
+    defaults: { _controller: YMTestBundle:Default:index }
+
+
+ymtest_Artist:
+    pattern:  /Artist/
+    defaults: { _controller: YMTestBundle:Musician:list }
+
+ymtest_ReviewArtist:
+    pattern:  /Artist/review/{id}
+    defaults: { _controller: YMTestBundle:Musician:review }
+    requirements:
+        id: \d+
+
+ymtest_AddArtist:
+    pattern:  /Artist/add
+    defaults: { _controller: YMTestBundle:Musician:add }
+
+
+ymtest_EditArtist:
+    pattern:  /Artist/edit/{id}
+    defaults: { _controller: YMTestBundle:Musician:edit }
+    requirements:
+        id: \d+
+
+ymtest_DeleteArtist:
+    pattern:  /Artist/delete/{id}
+    defaults: { _controller: YMTestBundle:Musician:delete }
+    requirements:
+        id: \d+
+
+
+ymtest_Album:
+    pattern:  /Album/{id}/
+    defaults: { _controller: YMTestBundle:Album:list, id: 0 }
+    requirements:
+        id: \d+
+
+ymtest_ReviewAlbum:
+    pattern:  /Album/review/{id}
+    defaults: { _controller: YMTestBundle:Album:review }
+    requirements:
+        id: \d+
+
+ymtest_AddAlbum:
+    pattern:  /Album/add/
+    defaults: { _controller: YMTestBundle:Album:add }
+
+ymtest_EditAlbum:
+    pattern:  /Album/edit/{id}
+    defaults: { _controller: YMTestBundle:Album:edit }
+    requirements:
+        id: \d+
+
+ymtest_DeleteAlbum:
+    pattern:  /Album/delete/{id}
+    defaults: { _controller: YMTestBundle:Album:delete }
+    requirements:
+        id: \d+

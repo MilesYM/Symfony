@@ -1,0 +1,42 @@
+{# src/YM/TestBundle/Resources/views/Default/index.html.twig #}
+ 
+{% extends "YMTestBundle::layout.html.twig" %}
+
+{% block bodyAdmin %}
+
+
+	<div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+        <div class='span12'>
+			<h1>Hello To The Team !</h1><br/><br/>
+			<p>Welcome on you Admin Dashboard !<br/> Here you can manage the artist and albums of the webiste</p>
+		</div>
+
+		<div class='span4 offset6'>
+				<p>There are <strong>{{ albums|length }}</strong> Albums In the DataBase</p>
+				<p>There are <strong>{{ artists|length }}</strong> Artists In the DataBase</p>
+		</div>
+		
+        <p><a class="btn btn-primary btn-large" href="http://www.linkedin.com/pub/yohann-merran/4b/ab9/aa">See my Portfolio &raquo;</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row show-grid">
+		<a href="{{ path('ymtest_Album') }}">
+			<div class="span6">
+				<h2>Manage Albums</h2>
+				You are able to see the list of all the albums on the website, edit them, add some and delete them.
+			</div>
+		</a>
+        <a href="{{ path('ymtest_Artist') }}">
+			<div class="span6">
+				<h2>Manage Artists</h2>
+				You are able to see the list of all the artists on the website, edit them, add some and delete them.
+			</div>
+		</a>
+      </div>
+
+    {% endblock %}
+

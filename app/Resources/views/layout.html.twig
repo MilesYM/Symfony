@@ -1,0 +1,49 @@
+{# app/Resources/views/layout.html.twig #}
+
+<!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+    <head profile="http://gmpg.org/xfn/11">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="language" content="us" />
+        <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+        <title>{% block title %}Yohann Merran Test Project{% endblock %}</title>
+     
+    
+
+        {% block links %}
+            <link rel="stylesheet" href="{{ asset('css/bootstrap/css/bootstrap.css') }}" type="text/css" />
+            <link rel="stylesheet" href="{{ asset('css/bootstrap/css/bootstrap-responsive.css') }}" type="text/css" />
+            <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
+        {% endblock %}
+    
+        {% block scripts %}
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        {% endblock %}
+
+    </head>
+    <body>
+
+       {% block body %}
+
+       {% endblock %}
+
+        <hr>
+
+        <footer>
+            <p>&copy; Company 2012</p>
+        </footer>
+
+        </div> <!-- /container -->
+
+        <!-- Le javascript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="{{ asset('css/bootstrap/js/bootstrap.min.js') }}"></script>
+
+    </body>
+</html>

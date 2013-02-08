@@ -1,0 +1,11 @@
+Create an admin page for a music collection using MVC pattern (you can use any framework if you like) and OOP, where after logging in, you can add, remove and edit details about musicians, albums etc.
+
+-          Create login to admin page (no registration required)
+-          Create database for users and albums
+-          Display all albums from database
+-          Options for adding, deleting and editing
+
+
+This task is to see your object oriented programming and programming in general, so you do not have to worry about the design.
+
+Please attach the php code and sql to your reply.

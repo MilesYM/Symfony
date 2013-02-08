@@ -1,0 +1,7 @@
+parameters:
+#    ym_test.example.class: YM\TestBundle\Example
+
+services:
+#    ym_test.example:
+#        class: %ym_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

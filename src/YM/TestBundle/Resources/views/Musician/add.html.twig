@@ -1,0 +1,42 @@
+{# src/YM/TestBundle/Resources/views/Musician/add.html.twig #}
+ 
+{% extends "YMTestBundle::layout.html.twig" %}
+
+{% block bodyAdmin %}
+
+<div class="container">
+	<form action="{{ path('ymtest_AddArtist') }}" method="post" {{ form_enctype(form) }}>
+		<div class="row">
+			{% if form_errors(form)|length != 0 %}
+				<div class="span12 alert alert-error" style="margin-left:0px">
+					{# Les erreurs générales du formulaire. #}
+					{{ form_errors(form) }}
+				</div>
+			{% endif %}
+		</div>
+	
+
+		<div class="row">
+			<div class="span10 BoxesW">
+				<div>
+					{{ form_label(form.name, "Artist Name") }}
+					{{ form_errors(form.name) }}
+					{{ form_widget(form.name) }}
+				</div>
+				<div>
+					{{ form_label(form.biography, "Artist Biography") }}
+					{{ form_errors(form.biography) }}
+					{{ form_widget(form.biography, {'attr':{'class': 'span10' }, 'id': 'wysiwyg' }) }}
+				</div>
+				</br>
+				{{ form_rest(form) }}
+				</br>
+				<div>
+					<input type="submit" class="btn btn-primary" />
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+
+{% endblock %}

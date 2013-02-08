@@ -1,0 +1,244 @@
+/*
+						  /\
+                          /\
+                          /\
+                          /\
+                        _`=='_
+                     _-~......~-_
+                    _--~............~--_
+                 __--~~....................~~--__
+        .___..---~~~................................~~~---..___,
+         `=.________________________________________________,='
+            @^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@
+			   |  |						 |  |
+			   |  | *** STYLE SHEET  *** |  |
+               |  |______________________|  |
+               | /________________________\ |
+               |'_     ~~~~~~~~~~~~~~     _`|
+              __-~...~~~~~--------------~~~~~...~-__
+         ___---~~......................................~~---___
+.___..---~~~......................................................~~~---..___,
+ `=.______________________________________________________________________,='
+    @^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@
+           |   |    | |    |  |    ||    |  |    | |    |   |
+           |   |____| |____|  |    ||    |  |____| |____|   |
+           |__________________|____||____|__________________|
+         _-|_____|_____|_____|__|------|__|_____|_____|_____|-_  ____              */
+
+		 
+/******************************************************************/
+/*************************[ Default Style ]************************/
+/******************************************************************/
+
+body{
+	padding-bottom:40px;
+}
+
+.container-fluid {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.container {
+	padding-top:60px;
+}
+
+.sidebar-nav {
+        padding: 9px 0;
+}
+
+/* COMMON CLASSES */
+.break { clear:both;}
+.Right{ float:right;}
+.Left { float:left;}
+.Center{margin:auto; text-align:center; width:auto;}
+
+/* HEADER */
+#header { 
+	height:150px; 
+	width:960px;
+	margin:auto;
+}
+#logo{
+	margin-bottom: -26px;
+    margin-top: -30px;
+    width: 153px;
+
+}
+
+/* TITLES */
+
+h3, h4, h5, h6, p, a, body{
+	font-family:'GeosansLightRegular','HelveticaNeueRegular';
+}
+
+h1{
+	font-family:'GeosansLightRegular', 'HelveticaNeueRegular';
+}
+h2{
+	font-family:'HelveticaNeueRegular','GeosansLightRegular';
+}
+
+/* Menu */
+
+#navMenu{
+	padding-left: 3%;
+}
+
+/* Tables */
+.topNoBar td{
+	border-top: none !important;
+}
+
+.tableHead td{
+	background-color: #F1F1F1;
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));
+	color:black;	
+	text-align:center;
+	font-weight:bolder;
+}
+
+#top-left{
+	-webkit-border-radius: 10px 0px 0px 0px;
+	-moz-border-radius: 10px 0px 0px 0px;
+	border-radius: 10px 0px 0px 0px;
+}
+#top-right{
+	-webkit-border-radius: 0px 10px 0px 0px;
+	-moz-border-radius: 0px 10px 0px 0px;
+	border-radius: 0px 10px 0px 0px;
+}
+
+.tableContent{
+	cursor:pointer;
+}
+
+.pagi{
+	float:right !important;
+}
+#pic{
+	max-width:400px;
+	margin:50px 50px 50px 0px;
+}
+
+/******************************************************************/
+/****************************[ LIST & EDIT ]***********************/
+/******************************************************************/
+
+.BoxesW{
+	padding: 0px 50px;
+	min-width:820px;
+}
+
+#btnStatus{
+	margin-top:-5px;
+	text-align:right;
+}
+
+.contents{
+	min-width:800px;
+}
+
+.contents p{
+	margin-top:50px;
+}
+.contents .btn{
+	margin: 10px 5%;
+}
+
+.wysiwyg{
+	width:800px;
+	margin:auto;
+}
+
+.tableContent td, .tableContent td a{
+	margin:auto;
+	text-align:center;
+}
+/******************************************************************/
+/********************************[ EDIT ]**************************/
+/******************************************************************/
+
+/********************* Review section **************************/
+	
+/* Main list */
+.news-list{
+	margin:25px auto 50px;
+	padding: 0 60px;
+}
+
+.news-list ul {
+}
+
+.news-list li {
+	clear:both;
+	height:200px;
+	margin-bottom:70px;
+	background-color:white;
+	margin-top:40px;
+}
+
+.news-list h2{
+	margin:auto;
+	text-align: center;
+	border-bottom:1px grey solid;
+	padding:10px;
+}
+
+.news-list a:hover{
+	text-decoration:none;
+}
+
+.news-list .thumb {
+	display: block;
+    float: left;
+    height: 185px;
+    padding: 5px;
+}
+
+.news-list .thumb a img{
+	display: block;
+    margin-left: 10%;
+    margin-top: 50px;
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.news-list #short_description {
+	font-size: 120%;
+    min-height: 100px;
+    padding: 25px;
+    text-align: justify;
+    vertical-align: middle;
+}
+
+#allClients{
+	width=100%;
+
+}
+
+.clients{
+	margin:75px auto 25px auto;
+}
+
+
+.clients ul{
+	list-style:none;
+}
+
+.clients li{
+	margin: 20px 0px;
+}
+
+.clients .strong{
+	margin-bottom:5px;
+}
+
+/**/
+
+.imgList{
+	width:40px;
+	margin:auto;
+	text-align:center;
+	
+}

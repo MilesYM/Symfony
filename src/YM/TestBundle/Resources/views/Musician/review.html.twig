@@ -1,0 +1,37 @@
+{# src/YM/TestBundle/Resources/views/Artist/review.html.twig #}
+ 
+{% extends "YMTestBundle::layout.html.twig" %}
+
+{% block bodyAdmin %}
+
+<div class="container">
+	<div class='row-fluid'>
+
+		<div class = "span12" >
+			<form class="well form-search">
+				<a class='Right btn btn-warning' href="{{ path('ymtest_EditArtist', {'id': artist.id}) }}">
+					<i class="icon-edit"></i> &nbsp; Edit this Artist
+				</a>
+				&nbsp
+				<a class='Left btn btn-warning' href="{{ path('ymtest_AddAlbum') }}">
+					<i class="icon-edit"></i> &nbsp; Add an Album for this Artist
+				</a>
+			</form>
+		</div>
+	</div>
+
+	<div class='row-fluid'>
+		<h2>{{ artist.name }}</h2>
+		
+		<div style="float:left">
+			{% if artist.picture|length == 0 %}
+				<img src="{{ asset('images/no_image.png') }}" alt="{{ artist.name }}" id="pic"/>
+			{% else %}
+				<img src="{{ asset('images/artists/' ~ artist.picture) }}" alt="{{ artist.name }}" id="pic"/>
+			{% endif %}
+		</div>
+
+			<p>{{ artist.biography|raw }}</p>
+	</div>
+
+{% endblock %}

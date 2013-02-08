@@ -1,0 +1,33 @@
+{# src/YM/TestBundle/Resources/views/Album/review.html.twig #}
+ 
+{% extends "YMTestBundle::layout.html.twig" %}
+
+{% block bodyAdmin %}
+
+<div class="container">
+	<div class='row-fluid'>
+
+		<div class = "span12" >
+			<form class="well form-search">
+				<a class='Right btn btn-warning' href="{{ path('ymtest_EditAlbum', {'id': album.id}) }}">
+					<i class="icon-edit"></i> &nbsp; Edit this Album
+				</a>
+			</form>
+		</div>
+	</div>
+
+	<div class='row-fluid'>
+		<h2>{{ album.name }}</h2>
+		
+		<div style="float:left">
+			{% if album.picture|length == 0 %}
+				<img src="{{ asset('images/no_image.png') }}" alt="{{ artist.name }}" id="pic"/>
+			{% else %}
+				<img src="{{ asset('images/albums/' ~ album.picture) }}" alt="{{ album.name }}" id="pic"/>
+			{% endif %}
+		</div>
+
+			<p>{{ album.songs|raw }}</p>
+	</div>
+
+{% endblock %}

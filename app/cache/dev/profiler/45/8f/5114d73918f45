@@ -1,0 +1,935 @@
+a:8:{s:5:"token";s:13:"5114d73918f45";s:6:"parent";N;s:8:"children";a:0:{}s:4:"data";a:11:{s:6:"config";C:62:"Symfony\Component\HttpKernel\DataCollector\ConfigDataCollector":2240:{a:11:{s:5:"token";s:13:"5114d73918f45";s:15:"symfony_version";s:5:"2.1.7";s:4:"name";s:3:"app";s:3:"env";s:3:"dev";s:5:"debug";b:1;s:11:"php_version";s:5:"5.4.3";s:14:"xdebug_enabled";b:1;s:14:"eaccel_enabled";b:0;s:11:"apc_enabled";b:0;s:14:"xcache_enabled";b:0;s:7:"bundles";a:17:{s:15:"FrameworkBundle";s:88:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle";s:14:"SecurityBundle";s:87:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Bundle\SecurityBundle";s:10:"TwigBundle";s:83:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle";s:13:"MonologBundle";s:89:"E:\Programmes\wamp\www\Symfony\vendor\symfony\monolog-bundle\Symfony\Bundle\MonologBundle";s:17:"SwiftmailerBundle";s:97:"E:\Programmes\wamp\www\Symfony\vendor\symfony\swiftmailer-bundle\Symfony\Bundle\SwiftmailerBundle";s:13:"AsseticBundle";s:89:"E:\Programmes\wamp\www\Symfony\vendor\symfony\assetic-bundle\Symfony\Bundle\AsseticBundle";s:14:"DoctrineBundle";s:93:"E:\Programmes\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle";s:26:"SensioFrameworkExtraBundle";s:102:"E:\Programmes\wamp\www\Symfony\vendor\sensio\framework-extra-bundle\Sensio\Bundle\FrameworkExtraBundle";s:12:"JMSAopBundle";s:66:"E:\Programmes\wamp\www\Symfony\vendor\jms\aop-bundle\JMS\AopBundle";s:16:"JMSDiExtraBundle";s:75:"E:\Programmes\wamp\www\Symfony\vendor\jms\di-extra-bundle\JMS\DiExtraBundle";s:22:"JMSSecurityExtraBundle";s:87:"E:\Programmes\wamp\www\Symfony\vendor\jms\security-extra-bundle\JMS\SecurityExtraBundle";s:12:"YMTestBundle";s:48:"E:\Programmes\wamp\www\Symfony\src\YM\TestBundle";s:13:"FOSUserBundle";s:81:"E:\Programmes\wamp\www\Symfony\vendor\friendsofsymfony\user-bundle\FOS\UserBundle";s:12:"YMUserBundle";s:48:"E:\Programmes\wamp\www\Symfony\src\YM\UserBundle";s:17:"WebProfilerBundle";s:90:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle";s:24:"SensioDistributionBundle";s:97:"E:\Programmes\wamp\www\Symfony\vendor\sensio\distribution-bundle\Sensio\Bundle\DistributionBundle";s:21:"SensioGeneratorBundle";s:91:"E:\Programmes\wamp\www\Symfony\vendor\sensio\generator-bundle\Sensio\Bundle\GeneratorBundle";}}}s:7:"request";C:63:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector":44917:{a:16:{s:6:"format";s:4:"html";s:7:"content";s:0:"";s:12:"content_type";s:24:"text/html; charset=UTF-8";s:11:"status_code";i:302;s:13:"request_query";a:0:{}s:15:"request_request";a:1:{s:23:"ym_testbundle_albumtype";a:4:{s:4:"name";s:7:"Santana";s:5:"songs";s:38945:"<p>
+	<a class="name-link" href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Carlos Santana</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;was originally in his own wing of the Latin Rock Hall of Fame, neither playing Afro-Cuban with rock guitar, as did&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/malo-mn0000566113" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Malo</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">, nor flavoring mainstream rock with percussion, as did&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/chicago-mn0000110161" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Chicago</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">. His first record, as with the best fusion, created something a little different than just a mixture -- a new style that, surprisingly, remains all his own. Granted that Latin music has seeped into the mainstream since, but why aren&#39;t&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/van-halen-mn0000260206" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Van Halen</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;and&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/metallica-mn0000446509" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Metallica</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;listening to this? Where they simmer,</span><a class="name-link" href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Santana</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;boils over.</span></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<br />
+	<div>
+		<table class="list" style="color: rgb(70, 70, 70); font-size: 11.818181991577148px; overflow: hidden; padding: 0px; width: 725.4545288085938px; border-collapse: collapse; border-spacing: 0px; font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 17.99715805053711px;">
+			<thead>
+				<tr style="background-color: rgb(238, 238, 238);">
+					<th class="sample" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Sample</th>
+					<th class="tracknum" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						&nbsp;</th>
+					<th class="title-artist" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Title/Composer</th>
+					<th class="performer" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px 20px; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Performer</th>
+					<th class="time" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Time</th>
+					<th class="stream" colspan="3" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 0px 5px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Stream</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						1</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/waiting-mt0006375513" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Waiting</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:08</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						2</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/evil-ways-mt0006352098" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Evil Ways</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/clarence-henry-mn0000783176" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Clarence Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/s-henry-mn0000827801" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">S. Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/sonny-henry-mn0000756476" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Sonny Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/james-oden-mn0000786043" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">James Oden</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/joe-zack-mn0001844049" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Joe Zack</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:00</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						3</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/shades-of-time-mt0006330579" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Shades of Time</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						3:14</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						4</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/savor-mt0009282429" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Savor</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						2:46</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						5</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/jingo-mt0006073905" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Jingo</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/babatunde-olatunji-mn0000056913" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Babatunde Olatunji</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:26</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						6</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/persuasion-mt0006273058" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Persuasion</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						2:37</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						7</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/treat-mt0006377970" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Treat</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:48</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						8</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/you-just-dont-care-mt0006353658" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">You Just Don&#39;t Care</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:39</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						9</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/soul-sacrifice-mt0006287404" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Soul Sacrifice</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/neal-schon-mn0000380149" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Neal Schon</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						6:41</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</p>
+<p>
+	&nbsp;</p>
+";s:6:"artist";s:1:"1";s:6:"_token";s:40:"1b7a534ea0827ef787b59fe1d8dcfaff4f882d5b";}}s:15:"request_headers";a:14:{s:4:"host";a:1:{i:0;s:17:"www.localhost.com";}s:10:"connection";a:1:{i:0;s:10:"keep-alive";}s:14:"content-length";a:1:{i:0;s:6:"150685";}s:13:"cache-control";a:1:{i:0;s:9:"max-age=0";}s:6:"accept";a:1:{i:0;s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";}s:6:"origin";a:1:{i:0;s:24:"http://www.localhost.com";}s:10:"user-agent";a:1:{i:0;s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17";}s:12:"content-type";a:1:{i:0;s:68:"multipart/form-data; boundary=----WebKitFormBoundaryGyWh1HP8BBrTKuIk";}s:7:"referer";a:1:{i:0;s:59:"http://www.localhost.com/Symfony/web/app_dev.php/Album/add/";}s:15:"accept-encoding";a:1:{i:0;s:17:"gzip,deflate,sdch";}s:15:"accept-language";a:1:{i:0;s:14:"en-US,en;q=0.8";}s:14:"accept-charset";a:1:{i:0;s:30:"ISO-8859-1,utf-8;q=0.7,*;q=0.3";}s:6:"cookie";a:1:{i:0;s:194:"__utma=79463689.1320418035.1357194455.1357719862.1357919434.4; __utmc=79463689; __utmz=79463689.1357194455.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=6h4p4iae12185ndtt6i61edg83";}s:14:"x-php-ob-level";a:1:{i:0;i:1;}}s:14:"request_server";a:39:{s:9:"HTTP_HOST";s:17:"www.localhost.com";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"CONTENT_LENGTH";s:6:"150685";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:11:"HTTP_ORIGIN";s:24:"http://www.localhost.com";s:15:"HTTP_USER_AGENT";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17";s:12:"CONTENT_TYPE";s:68:"multipart/form-data; boundary=----WebKitFormBoundaryGyWh1HP8BBrTKuIk";s:12:"HTTP_REFERER";s:59:"http://www.localhost.com/Symfony/web/app_dev.php/Album/add/";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip,deflate,sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.8";s:19:"HTTP_ACCEPT_CHARSET";s:30:"ISO-8859-1,utf-8;q=0.7,*;q=0.3";s:11:"HTTP_COOKIE";s:194:"__utma=79463689.1320418035.1357194455.1357719862.1357919434.4; __utmc=79463689; __utmz=79463689.1357194455.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=6h4p4iae12185ndtt6i61edg83";s:4:"PATH";s:394:"C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Windows Live\Shared;E:\Programmes\wamp\bin\php\php5.4.3\;";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:31:"Apache/2.2.22 (Win64) PHP/5.4.3";s:11:"SERVER_NAME";s:17:"www.localhost.com";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:23:"E:/Programmes/wamp/www/";s:12:"SERVER_ADMIN";s:15:"admin@localhost";s:15:"SCRIPT_FILENAME";s:46:"E:/Programmes/wamp/www/Symfony/web/app_dev.php";s:11:"REMOTE_PORT";s:5:"61962";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:35:"/Symfony/web/app_dev.php/Album/add/";s:11:"SCRIPT_NAME";s:24:"/Symfony/web/app_dev.php";s:9:"PATH_INFO";s:11:"/Album/add/";s:15:"PATH_TRANSLATED";s:33:"E:\Programmes\wamp\www\Album\add\";s:8:"PHP_SELF";s:35:"/Symfony/web/app_dev.php/Album/add/";s:18:"REQUEST_TIME_FLOAT";d:1360320311.638000011444091796875;s:12:"REQUEST_TIME";i:1360320311;}s:15:"request_cookies";a:4:{s:6:"__utma";s:54:"79463689.1320418035.1357194455.1357719862.1357919434.4";s:6:"__utmc";s:8:"79463689";s:6:"__utmz";s:69:"79463689.1357194455.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)";s:9:"PHPSESSID";s:26:"6h4p4iae12185ndtt6i61edg83";}s:18:"request_attributes";a:3:{s:11:"_controller";s:51:"YM\TestBundle\Controller\AlbumController::addAction";s:6:"_route";s:15:"ymtest_AddAlbum";s:13:"_route_params";s:7:"Array()";}s:16:"response_headers";a:5:{s:13:"cache-control";a:1:{i:0;s:8:"no-cache";}s:4:"date";a:1:{i:0;s:29:"Fri, 08 Feb 2013 10:45:13 GMT";}s:8:"location";a:1:{i:0;s:33:"/Symfony/web/app_dev.php/Album/0/";}s:12:"content-type";a:1:{i:0;s:24:"text/html; charset=UTF-8";}s:13:"x-debug-token";a:1:{i:0;s:13:"5114d73918f45";}}s:16:"session_metadata";a:3:{s:7:"Created";s:29:"Thu, 07 Feb 13 21:21:59 +0000";s:9:"Last used";s:29:"Fri, 08 Feb 13 10:43:47 +0000";s:8:"Lifetime";s:1:"0";}s:18:"session_attributes";a:1:{s:15:"_security_admin";s:561:"C:74:"Symfony\Component\Security\Core\Authentication\Token\UsernamePasswordToken":473:{a:3:{i:0;N;i:1;s:5:"admin";i:2;s:432:"a:4:{i:0;C:25:"YM\UserBundle\Entity\User":227:{a:9:{i:0;s:88:"rHYoL8pkpBqDTvoy4VWRJQXGWF91e0DCc34KS7YdIHiyDDu/uwxwtyXfU4W1s8enWQk2XwH1jxKzqpCsxyV2Qg==";i:1;s:31:"n7is0jobti8gsw8cw4wgg00o4w8w8sc";i:2;s:8:"username";i:3;s:8:"UserName";i:4;b:0;i:5;b:0;i:6;b:0;i:7;b:1;i:8;i:1;}}i:1;b:1;i:2;a:1:{i:0;O:41:"Symfony\Component\Security\Core\Role\Role":1:{s:47:" Symfony\Component\Security\Core\Role\Role role";s:9:"ROLE_USER";}}i:3;a:0:{}}";}}";}s:7:"flashes";a:1:{s:4:"info";a:1:{i:0;s:24:"Album added successfully";}}s:9:"path_info";s:11:"/Album/add/";s:10:"controller";a:4:{s:5:"class";s:40:"YM\TestBundle\Controller\AlbumController";s:6:"method";s:9:"addAction";s:4:"file";s:79:"E:\Programmes\wamp\www\Symfony\src\YM\TestBundle\Controller\AlbumController.php";s:4:"line";i:71;}}}s:9:"exception";C:65:"Symfony\Component\HttpKernel\DataCollector\ExceptionDataCollector":2:{N;}s:6:"events";C:61:"Symfony\Component\HttpKernel\DataCollector\EventDataCollector":13979:{a:2:{s:16:"called_listeners";a:17:{s:91:"kernel.request.Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest";a:8:{s:5:"event";s:14:"kernel.request";s:8:"priority";i:1024;s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:121:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php";s:4:"line";i:72;s:6:"pretty";s:76:"Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest";}s:92:"kernel.request.Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest";a:8:{s:5:"event";s:14:"kernel.request";s:8:"priority";i:128;s:4:"type";s:6:"Method";s:5:"class";s:60:"Symfony\Bundle\FrameworkBundle\EventListener\SessionListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:56:"E:\Programmes\wamp\www\Symfony\app\cache\dev\classes.php";s:4:"line";i:40;s:6:"pretty";s:77:"Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest";}s:89:"kernel.request.Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest";a:8:{s:5:"event";s:14:"kernel.request";s:8:"priority";i:32;s:4:"type";s:6:"Method";s:5:"class";s:57:"Symfony\Component\HttpKernel\EventListener\RouterListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:56:"E:\Programmes\wamp\www\Symfony\app\cache\dev\classes.php";s:4:"line";i:5093;s:6:"pretty";s:74:"Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest";}s:89:"kernel.request.Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest";a:8:{s:5:"event";s:14:"kernel.request";s:8:"priority";i:16;s:4:"type";s:6:"Method";s:5:"class";s:57:"Symfony\Component\HttpKernel\EventListener\LocaleListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:119:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\LocaleListener.php";s:4:"line";i:35;s:6:"pretty";s:74:"Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest";}s:72:"kernel.request.Symfony\Component\Security\Http\Firewall::onKernelRequest";a:8:{s:5:"event";s:14:"kernel.request";s:8:"priority";i:8;s:4:"type";s:6:"Method";s:5:"class";s:40:"Symfony\Component\Security\Http\Firewall";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:56:"E:\Programmes\wamp\www\Symfony\app\cache\dev\classes.php";s:4:"line";i:5739;s:6:"pretty";s:57:"Symfony\Component\Security\Http\Firewall::onKernelRequest";}s:90:"kernel.request.Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest";a:8:{s:5:"event";s:14:"kernel.request";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:58:"Symfony\Bundle\AsseticBundle\EventListener\RequestListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:123:"E:\Programmes\wamp\www\Symfony\vendor\symfony\assetic-bundle\Symfony\Bundle\AsseticBundle\EventListener\RequestListener.php";s:4:"line";i:23;s:6:"pretty";s:75:"Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest";}s:102:"kernel.controller.Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController";a:8:{s:5:"event";s:17:"kernel.controller";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:64:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector";s:6:"method";s:18:"onKernelController";s:4:"file";s:124:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\DataCollector\RouterDataCollector.php";s:4:"line";i:65;s:6:"pretty";s:84:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController";}s:105:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController";a:8:{s:5:"event";s:17:"kernel.controller";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:67:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:139:"E:\Programmes\wamp\www\Symfony\vendor\sensio\framework-extra-bundle\Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener.php";s:4:"line";i:49;s:6:"pretty";s:87:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController";}s:109:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController";a:8:{s:5:"event";s:17:"kernel.controller";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:71:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:143:"E:\Programmes\wamp\www\Symfony\vendor\sensio\framework-extra-bundle\Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener.php";s:4:"line";i:46;s:6:"pretty";s:91:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController";}s:103:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController";a:8:{s:5:"event";s:17:"kernel.controller";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:137:"E:\Programmes\wamp\www\Symfony\vendor\sensio\framework-extra-bundle\Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener.php";s:4:"line";i:48;s:6:"pretty";s:85:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController";}s:101:"kernel.controller.Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController";a:8:{s:5:"event";s:17:"kernel.controller";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:63:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector";s:6:"method";s:18:"onKernelController";s:4:"file";s:125:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\DataCollector\RequestDataCollector.php";s:4:"line";i:225;s:6:"pretty";s:83:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController";}s:90:"kernel.response.Symfony\Component\Security\Http\Firewall\ContextListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:56:"Symfony\Component\Security\Http\Firewall\ContextListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:118:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\Security\Http\Firewall\ContextListener.php";s:4:"line";i:106;s:6:"pretty";s:74:"Symfony\Component\Security\Http\Firewall\ContextListener::onKernelResponse";}s:93:"kernel.response.Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\Security\Http\RememberMe\ResponseListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:121:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\Security\Http\RememberMe\ResponseListener.php";s:4:"line";i:23;s:6:"pretty";s:77:"Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse";}s:79:"kernel.response.Symfony\Bridge\Monolog\Handler\FirePHPHandler::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:45:"Symfony\Bridge\Monolog\Handler\FirePHPHandler";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:107:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Bridge\Monolog\Handler\FirePHPHandler.php";s:4:"line";i:39;s:6:"pretty";s:63:"Symfony\Bridge\Monolog\Handler\FirePHPHandler::onKernelResponse";}s:96:"kernel.response.Sensio\Bundle\FrameworkExtraBundle\EventListener\CacheListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:62:"Sensio\Bundle\FrameworkExtraBundle\EventListener\CacheListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:134:"E:\Programmes\wamp\www\Symfony\vendor\sensio\framework-extra-bundle\Sensio\Bundle\FrameworkExtraBundle\EventListener\CacheListener.php";s:4:"line";i:30;s:6:"pretty";s:80:"Sensio\Bundle\FrameworkExtraBundle\EventListener\CacheListener::onKernelResponse";}s:93:"kernel.response.Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ResponseListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:56:"E:\Programmes\wamp\www\Symfony\app\cache\dev\classes.php";s:4:"line";i:5027;s:6:"pretty";s:77:"Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse";}s:93:"kernel.response.Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:-100;s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:121:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php";s:4:"line";i:82;s:6:"pretty";s:77:"Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse";}}s:20:"not_called_listeners";a:8:{s:104:"kernel.response.Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:-128;s:4:"type";s:6:"Method";s:5:"class";s:70:"Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:132:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener.php";s:4:"line";i:55;s:6:"pretty";s:88:"Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener::onKernelResponse";}s:101:"kernel.response.Symfony\Component\HttpKernel\EventListener\StreamedResponseListener::onKernelResponse";a:8:{s:5:"event";s:15:"kernel.response";s:8:"priority";i:-1024;s:4:"type";s:6:"Method";s:5:"class";s:67:"Symfony\Component\HttpKernel\EventListener\StreamedResponseListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:129:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\StreamedResponseListener.php";s:4:"line";i:33;s:6:"pretty";s:85:"Symfony\Component\HttpKernel\EventListener\StreamedResponseListener::onKernelResponse";}s:94:"kernel.exception.Symfony\Component\Security\Http\Firewall\ExceptionListener::onKernelException";a:8:{s:5:"event";s:16:"kernel.exception";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:58:"Symfony\Component\Security\Http\Firewall\ExceptionListener";s:6:"method";s:17:"onKernelException";s:4:"file";s:120:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\Security\Http\Firewall\ExceptionListener.php";s:4:"line";i:77;s:6:"pretty";s:77:"Symfony\Component\Security\Http\Firewall\ExceptionListener::onKernelException";}s:95:"kernel.exception.Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelException";a:8:{s:5:"event";s:16:"kernel.exception";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";s:6:"method";s:17:"onKernelException";s:4:"file";s:121:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php";s:4:"line";i:63;s:6:"pretty";s:78:"Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelException";}s:96:"kernel.exception.Symfony\Component\HttpKernel\EventListener\ExceptionListener::onKernelException";a:8:{s:5:"event";s:16:"kernel.exception";s:8:"priority";i:-128;s:4:"type";s:6:"Method";s:5:"class";s:60:"Symfony\Component\HttpKernel\EventListener\ExceptionListener";s:6:"method";s:17:"onKernelException";s:4:"file";s:122:"E:\Programmes\wamp\www\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ExceptionListener.php";s:4:"line";i:39;s:6:"pretty";s:79:"Symfony\Component\HttpKernel\EventListener\ExceptionListener::onKernelException";}s:91:"kernel.view.Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelView";a:8:{s:5:"event";s:11:"kernel.view";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener";s:6:"method";s:12:"onKernelView";s:4:"file";s:137:"E:\Programmes\wamp\www\Symfony\vendor\sensio\framework-extra-bundle\Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener.php";s:4:"line";i:88;s:6:"pretty";s:79:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelView";}s:103:"security.interactive_login.FOS\UserBundle\Security\InteractiveLoginListener::onSecurityInteractiveLogin";a:8:{s:5:"event";s:26:"security.interactive_login";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:48:"FOS\UserBundle\Security\InteractiveLoginListener";s:6:"method";s:26:"onSecurityInteractiveLogin";s:4:"file";s:119:"E:\Programmes\wamp\www\Symfony\vendor\friendsofsymfony\user-bundle\FOS\UserBundle\Security\InteractiveLoginListener.php";s:4:"line";i:27;s:6:"pretty";s:76:"FOS\UserBundle\Security\InteractiveLoginListener::onSecurityInteractiveLogin";}s:102:"kernel.terminate.Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener::onKernelTerminate";a:8:{s:5:"event";s:16:"kernel.terminate";s:8:"priority";i:0;s:4:"type";s:6:"Method";s:5:"class";s:66:"Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener";s:6:"method";s:17:"onKernelTerminate";s:4:"file";s:135:"E:\Programmes\wamp\www\Symfony\vendor\symfony\swiftmailer-bundle\Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener.php";s:4:"line";i:36;s:6:"pretty";s:85:"Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener::onKernelTerminate";}}}}s:6:"logger";C:62:"Symfony\Component\HttpKernel\DataCollector\LoggerDataCollector":45976:{a:2:{s:11:"error_count";i:0;s:4:"logs";a:27:{i:0;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:123:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:1;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:124:"Notified event "kernel.request" to listener "Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:2;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:121:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:3;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:143:"Matched route "ymtest_AddAlbum" (parameters: "_controller": "YM\TestBundle\Controller\AlbumController::addAction", "_route": "ymtest_AddAlbum")";s:8:"priority";i:200;s:12:"priorityName";s:4:"INFO";s:7:"context";a:0:{}}i:4;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:121:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:5;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:104:"Notified event "kernel.request" to listener "Symfony\Component\Security\Http\Firewall::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:6;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:37:"Read SecurityContext from the session";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:7;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:34:"Reloading user from user provider.";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:8;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:591:"SELECT t0.username AS username1, t0.username_canonical AS username_canonical2, t0.email AS email3, t0.email_canonical AS email_canonical4, t0.enabled AS enabled5, t0.salt AS salt6, t0.password AS password7, t0.last_login AS last_login8, t0.locked AS locked9, t0.expired AS expired10, t0.expires_at AS expires_at11, t0.confirmation_token AS confirmation_token12, t0.password_requested_at AS password_requested_at13, t0.roles AS roles14, t0.credentials_expired AS credentials_expired15, t0.credentials_expire_at AS credentials_expire_at16, t0.id AS id17 FROM ym_user t0 WHERE t0.id = ? LIMIT 1";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:1:{i:0;i:1;}}i:9;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:52:"Username "UserName" was reloaded from user provider.";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:10;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:122:"Notified event "kernel.request" to listener "Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:11;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:134:"Notified event "kernel.controller" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:12;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:137:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:13;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:141:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:14;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:135:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:15;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:133:"Notified event "kernel.controller" to listener "Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:16;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:105:"SELECT t0.id AS id1, t0.name AS name2, t0.biography AS biography3, t0.picture AS picture4 FROM artists t0";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:17;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:19:""START TRANSACTION"";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:18;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:72:"INSERT INTO albums (name, songs, picture, artist_id) VALUES (?, ?, ?, ?)";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:4:{i:1;s:7:"Santana";i:2;s:38943:"<p>
+	<a class="name-link" href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Carlos Santana</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;was originally in his own wing of the Latin Rock Hall of Fame, neither playing Afro-Cuban with rock guitar, as did&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/malo-mn0000566113" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Malo</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">, nor flavoring mainstream rock with percussion, as did&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/chicago-mn0000110161" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Chicago</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">. His first record, as with the best fusion, created something a little different than just a mixture -- a new style that, surprisingly, remains all his own. Granted that Latin music has seeped into the mainstream since, but why aren&#39;t&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/van-halen-mn0000260206" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Van Halen</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;and&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/metallica-mn0000446509" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Metallica</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;listening to this? Where they simmer,</span><a class="name-link" href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Santana</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;boils over.</span></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<br />
+	<div>
+		<table class="list" style="color: rgb(70, 70, 70); font-size: 11.818181991577148px; overflow: hidden; padding: 0px; width: 725.4545288085938px; border-collapse: collapse; border-spacing: 0px; font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 17.99715805053711px;">
+			<thead>
+				<tr style="background-color: rgb(238, 238, 238);">
+					<th class="sample" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Sample</th>
+					<th class="tracknum" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						&nbsp;</th>
+					<th class="title-artist" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Title/Composer</th>
+					<th class="performer" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px 20px; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Performer</th>
+					<th class="time" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Time</th>
+					<th class="stream" colspan="3" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 0px 5px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Stream</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						1</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/waiting-mt0006375513" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Waiting</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:08</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						2</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/evil-ways-mt0006352098" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Evil Ways</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/clarence-henry-mn0000783176" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Clarence Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/s-henry-mn0000827801" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">S. Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/sonny-henry-mn0000756476" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Sonny Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/james-oden-mn0000786043" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">James Oden</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/joe-zack-mn0001844049" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Joe Zack</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:00</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						3</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/shades-of-time-mt0006330579" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Shades of Time</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						3:14</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						4</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/savor-mt0009282429" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Savor</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						2:46</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						5</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/jingo-mt0006073905" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Jingo</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/babatunde-olatunji-mn0000056913" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Babatunde Olatunji</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:26</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						6</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/persuasion-mt0006273058" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Persuasion</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						2:37</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						7</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/treat-mt0006377970" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Treat</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:48</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						8</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/you-just-dont-care-mt0006353658" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">You Just Don&#39;t Care</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:39</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						9</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/soul-sacrifice-mt0006287404" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Soul Sacrifice</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/neal-schon-mn0000380149" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Neal Schon</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						6:41</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</p>
+<p>
+	&nbsp;</p>";i:3;s:44:"c7102b7d4812edd3a2a71ca2d731b5380b0b4f77.gif";i:4;i:1;}}i:19;a:5:{s:9:"timestamp";i:1360320312;s:7:"message";s:8:""COMMIT"";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:20;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:122:"Notified event "kernel.response" to listener "Symfony\Component\Security\Http\Firewall\ContextListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:21;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:36:"Write SecurityContext in the session";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:22;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:23;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:111:"Notified event "kernel.response" to listener "Symfony\Bridge\Monolog\Handler\FirePHPHandler::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:24;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:128:"Notified event "kernel.response" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\CacheListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:25;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:26;a:5:{s:9:"timestamp";i:1360320313;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}}}}s:4:"time";C:60:"Symfony\Component\HttpKernel\DataCollector\TimeDataCollector":18201:{a:2:{s:10:"start_time";d:1360320311659.593994140625;s:6:"events";a:32:{s:11:"__section__";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:2:{i:0;a:2:{i:0;d:0;i:1;d:1001.6000000000000227373675443232059478759765625;}i:1;a:2:{i:0;d:1013.1000000000000227373675443232059478759765625;i:1;d:1014.3999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:7:"default";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:14:"kernel.request";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:0.1000000000000000055511151231257827021181583404541015625;i:1;d:398.80000000000001136868377216160297393798828125;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:7:"section";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:22:"kernel.request.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:3:{i:0;a:2:{i:0;d:0.200000000000000011102230246251565404236316680908203125;i:1;d:268.69999999999998863131622783839702606201171875;}i:1;a:2:{i:0;d:268.80000000000001136868377216160297393798828125;i:1;d:268.8999999999999772626324556767940521240234375;}i:2;a:2:{i:0;d:978.5;i:1;d:978.6000000000000227373675443232059478759765625;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:16:"ProfilerListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:2:{i:0;a:2:{i:0;d:270.3999999999999772626324556767940521240234375;i:1;d:270.3999999999999772626324556767940521240234375;}i:1;a:2:{i:0;d:975.1000000000000227373675443232059478759765625;i:1;d:999.299999999999954525264911353588104248046875;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:15:"SessionListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:271.3999999999999772626324556767940521240234375;i:1;d:277.8999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:14:"RouterListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:278.8999999999999772626324556767940521240234375;i:1;d:300.3999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:14:"LocaleListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:301.30000000000001136868377216160297393798828125;i:1;d:301.3999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:8:"Firewall";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:302.3999999999999772626324556767940521240234375;i:1;d:397.80000000000001136868377216160297393798828125;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:8:"doctrine";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:5:{i:0;a:2:{i:0;d:382.1000000000000227373675443232059478759765625;i:1;d:385.80000000000001136868377216160297393798828125;}i:1;a:2:{i:0;d:614.3999999999999772626324556767940521240234375;i:1;d:617.6000000000000227373675443232059478759765625;}i:2;a:2:{i:0;d:774.1000000000000227373675443232059478759765625;i:1;d:775.200000000000045474735088646411895751953125;}i:3;a:2:{i:0;d:777.6000000000000227373675443232059478759765625;i:1;d:787.6000000000000227373675443232059478759765625;}i:4;a:2:{i:0;d:789.3999999999999772626324556767940521240234375;i:1;d:893.8999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:8:"doctrine";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:15:"RequestListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:398.6000000000000227373675443232059478759765625;i:1;d:398.69999999999998863131622783839702606201171875;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:17:"kernel.controller";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:406.19999999999998863131622783839702606201171875;i:1;d:424.1000000000000227373675443232059478759765625;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:7:"section";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:25:"kernel.controller.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:3:{i:0;a:2:{i:0;d:406.30000000000001136868377216160297393798828125;i:1;d:417.30000000000001136868377216160297393798828125;}i:1;a:2:{i:0;d:417.3999999999999772626324556767940521240234375;i:1;d:417.5;}i:2;a:2:{i:0;d:978.299999999999954525264911353588104248046875;i:1;d:978.3999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:19:"RouterDataCollector";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:418.3999999999999772626324556767940521240234375;i:1;d:418.5;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:18:"ControllerListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:419.3999999999999772626324556767940521240234375;i:1;d:421.1000000000000227373675443232059478759765625;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:22:"ParamConverterListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:422;i:1;d:422.1000000000000227373675443232059478759765625;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:16:"TemplateListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:423.1000000000000227373675443232059478759765625;i:1;d:423.1000000000000227373675443232059478759765625;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:20:"RequestDataCollector";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:424;i:1;d:424.1000000000000227373675443232059478759765625;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:10:"controller";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:424.19999999999998863131622783839702606201171875;i:1;d:911.5;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:7:"section";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:15:"kernel.response";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:911.6000000000000227373675443232059478759765625;i:1;d:1001.5;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:7:"section";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:23:"kernel.response.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:3:{i:0;a:2:{i:0;d:911.700000000000045474735088646411895751953125;i:1;d:967.799999999999954525264911353588104248046875;}i:1;a:2:{i:0;d:967.799999999999954525264911353588104248046875;i:1;d:968;}i:2;a:2:{i:0;d:978.6000000000000227373675443232059478759765625;i:1;d:978.700000000000045474735088646411895751953125;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:15:"ContextListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:969;i:1;d:969.8999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:16:"ResponseListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:2:{i:0;a:2:{i:0;d:970.799999999999954525264911353588104248046875;i:1;d:970.8999999999999772626324556767940521240234375;}i:1;a:2:{i:0;d:973.799999999999954525264911353588104248046875;i:1;d:974.200000000000045474735088646411895751953125;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:14:"FirePHPHandler";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:971.799999999999954525264911353588104248046875;i:1;d:971.8999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:13:"CacheListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:972.8999999999999772626324556767940521240234375;i:1;d:973;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:19:"kernel.view.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:978.799999999999954525264911353588104248046875;i:1;d:978.8999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:34:"security.interactive_login.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:979;i:1;d:980.299999999999954525264911353588104248046875;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:24:"kernel.exception.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:980.299999999999954525264911353588104248046875;i:1;d:980.5;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:24:"kernel.terminate.loading";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:3:{i:0;a:2:{i:0;d:980.6000000000000227373675443232059478759765625;i:1;d:980.700000000000045474735088646411895751953125;}i:1;a:2:{i:0;d:1013.1000000000000227373675443232059478759765625;i:1;d:1013.200000000000045474735088646411895751953125;}i:2;a:2:{i:0;d:1013.299999999999954525264911353588104248046875;i:1;d:1013.299999999999954525264911353588104248046875;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:22:"event_listener_loading";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:23:"WebDebugToolbarListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:1000.299999999999954525264911353588104248046875;i:1;d:1000.5;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:24:"StreamedResponseListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:1001.3999999999999772626324556767940521240234375;i:1;d:1001.5;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:16:"kernel.terminate";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:1013.1000000000000227373675443232059478759765625;i:1;d:1014.3999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:7:"section";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}s:19:"EmailSenderListener";O:49:"Symfony\Component\HttpKernel\Debug\StopwatchEvent":4:{s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent periods";a:1:{i:0;a:2:{i:0;d:1014.299999999999954525264911353588104248046875;i:1;d:1014.3999999999999772626324556767940521240234375;}}s:57:" Symfony\Component\HttpKernel\Debug\StopwatchEvent origin";d:1360320312125.89990234375;s:59:" Symfony\Component\HttpKernel\Debug\StopwatchEvent category";s:14:"event_listener";s:58:" Symfony\Component\HttpKernel\Debug\StopwatchEvent started";a:0:{}}}}}s:6:"memory";C:62:"Symfony\Component\HttpKernel\DataCollector\MemoryDataCollector":30:{a:1:{s:6:"memory";i:21757952;}}s:6:"router";C:64:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector":98:{a:3:{s:8:"redirect";b:1;s:3:"url";s:33:"/Symfony/web/app_dev.php/Album/0/";s:5:"route";s:3:"n/a";}}s:8:"security";C:65:"Symfony\Bundle\SecurityBundle\DataCollector\SecurityDataCollector":113:{a:4:{s:7:"enabled";b:1;s:13:"authenticated";b:1;s:4:"user";s:8:"UserName";s:5:"roles";a:1:{i:0;s:9:"ROLE_USER";}}}s:11:"swiftmailer";C:61:"Symfony\Bridge\Swiftmailer\DataCollector\MessageDataCollector":69:{a:3:{s:8:"messages";a:0:{}s:12:"messageCount";i:0;s:7:"isSpool";b:1;}}s:2:"db";C:66:"Doctrine\Bundle\DoctrineBundle\DataCollector\DoctrineDataCollector":41494:{a:5:{s:7:"queries";a:1:{s:7:"default";a:5:{i:1;a:5:{s:3:"sql";s:591:"SELECT t0.username AS username1, t0.username_canonical AS username_canonical2, t0.email AS email3, t0.email_canonical AS email_canonical4, t0.enabled AS enabled5, t0.salt AS salt6, t0.password AS password7, t0.last_login AS last_login8, t0.locked AS locked9, t0.expired AS expired10, t0.expires_at AS expires_at11, t0.confirmation_token AS confirmation_token12, t0.password_requested_at AS password_requested_at13, t0.roles AS roles14, t0.credentials_expired AS credentials_expired15, t0.credentials_expire_at AS credentials_expire_at16, t0.id AS id17 FROM ym_user t0 WHERE t0.id = ? LIMIT 1";s:6:"params";a:1:{i:0;i:1;}s:5:"types";a:1:{i:0;i:1;}s:11:"executionMS";d:0.0026791095733642578125;s:11:"explainable";b:1;}i:2;a:5:{s:3:"sql";s:105:"SELECT t0.id AS id1, t0.name AS name2, t0.biography AS biography3, t0.picture AS picture4 FROM artists t0";s:6:"params";a:0:{}s:5:"types";a:0:{}s:11:"executionMS";d:0.0023441314697265625;s:11:"explainable";b:1;}i:3;a:5:{s:3:"sql";s:19:""START TRANSACTION"";s:6:"params";a:0:{}s:5:"types";N;s:11:"executionMS";d:0.0002949237823486328125;s:11:"explainable";b:1;}i:4;a:5:{s:3:"sql";s:72:"INSERT INTO albums (name, songs, picture, artist_id) VALUES (?, ?, ?, ?)";s:6:"params";a:4:{i:1;s:7:"Santana";i:2;s:38943:"<p>
+	<a class="name-link" href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Carlos Santana</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;was originally in his own wing of the Latin Rock Hall of Fame, neither playing Afro-Cuban with rock guitar, as did&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/malo-mn0000566113" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Malo</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">, nor flavoring mainstream rock with percussion, as did&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/chicago-mn0000110161" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Chicago</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">. His first record, as with the best fusion, created something a little different than just a mixture -- a new style that, surprisingly, remains all his own. Granted that Latin music has seeped into the mainstream since, but why aren&#39;t&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/van-halen-mn0000260206" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Van Halen</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;and&nbsp;</span><a class="name-link" href="http://www.allmusic.com/artist/metallica-mn0000446509" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Metallica</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;listening to this? Where they simmer,</span><a class="name-link" href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">Santana</a><span style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif; font-size: 15.454545021057129px; line-height: 22.5px;">&nbsp;boils over.</span></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<br />
+	<div>
+		<table class="list" style="color: rgb(70, 70, 70); font-size: 11.818181991577148px; overflow: hidden; padding: 0px; width: 725.4545288085938px; border-collapse: collapse; border-spacing: 0px; font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 17.99715805053711px;">
+			<thead>
+				<tr style="background-color: rgb(238, 238, 238);">
+					<th class="sample" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Sample</th>
+					<th class="tracknum" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						&nbsp;</th>
+					<th class="title-artist" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Title/Composer</th>
+					<th class="performer" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px 20px; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Performer</th>
+					<th class="time" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 2px 0px 3px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Time</th>
+					<th class="stream" colspan="3" style="background-image: none; background-attachment: scroll; background-color: rgb(239, 239, 239); color: rgb(0, 0, 0); font-weight: normal; font-size: 11px; line-height: 27px; height: 27px; padding: 0px 5px; text-align: center; background-position: 0px 0px; background-repeat: repeat repeat;">
+						Stream</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						1</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/waiting-mt0006375513" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Waiting</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:08</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						2</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/evil-ways-mt0006352098" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Evil Ways</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/clarence-henry-mn0000783176" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Clarence Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/s-henry-mn0000827801" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">S. Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/sonny-henry-mn0000756476" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Sonny Henry</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/james-oden-mn0000786043" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">James Oden</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/joe-zack-mn0001844049" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Joe Zack</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:00</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						3</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/shades-of-time-mt0006330579" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Shades of Time</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						3:14</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						4</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/savor-mt0009282429" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Savor</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						2:46</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						5</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/jingo-mt0006073905" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Jingo</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/babatunde-olatunji-mn0000056913" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Babatunde Olatunji</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:26</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						6</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/persuasion-mt0006273058" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Persuasion</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						2:37</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						7</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/treat-mt0006377970" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Treat</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:48</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr style="background-color: rgb(244, 244, 244);">
+					<td class="sample" style="padding: 0px; width: 50px; height: 44px;">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						8</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/you-just-dont-care-mt0006353658" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">You Just Don&#39;t Care</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						4:39</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="sample pick" style="padding: 0px; position: relative; margin: 0px; width: 50px; height: 44px; background-image: url(http://www.allmusic.com/assets/images/allmusic-pick-small.png); min-width: 20px; background-position: initial initial; background-repeat: no-repeat no-repeat;" title="AllMusic Pick">
+						<div class="ui360" style="position: relative; width: 38px; height: 38px; vertical-align: middle; background-color: transparent; background-image: none; -webkit-transform: scale(0.7, 0.7); left: 8px; background-position: 5px 35%; background-repeat: no-repeat no-repeat;">
+							<div class="sm2-360ui" style="position: relative; width: 38px; height: 38px; vertical-align: middle; display: inline-block; float: left;">
+								<canvas class="sm2-canvas" height="39" style="vertical-align: middle; position: absolute; left: 0px; top: 0px;" width="39"></canvas>
+								<div class="sm2-timing alignTweak" style="vertical-align: middle; position: absolute; left: 0px; top: 0px; width: 37.99715805053711px; height: 37.99715805053711px; margin: 0px; font-size: 11px; font-family: 'helvetica neue', helvetica, monaco, lucida, terminal, monospace; color: purple; text-align: center; line-height: 38px; text-indent: 1px; visibility: hidden;">
+									&nbsp;</div>
+							</div>
+						</div>
+					</td>
+					<td class="tracknum" style="padding: 0px 10px 0px 0px; font-size: 1.2em; width: 15px; text-align: right;">
+						9</td>
+					<td class="title" style="padding: 0px; line-height: 15px;">
+						<div class="title">
+							<a class="primary_link" href="http://www.allmusic.com/song/soul-sacrifice-mt0006287404" style="color: rgb(165, 3, 54); text-decoration: initial; outline: none; font-weight: bold; float: none; font-size: 1.083em; line-height: 16px;">Soul Sacrifice</a></div>
+						<div class="artist secondary_link" style="font-size: 0.87em;">
+							<a href="http://www.allmusic.com/artist/jos%C3%A9-chepit%C3%B3-areas-mn0000268795" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Jos&eacute; Chepit&oacute; Areas</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/david-brown-mn0000634184" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">David Brown</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/mike-carabello-mn0001013282" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Mike Carabello</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/gregg-rolie-mn0000193526" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Gregg Rolie</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/carlos-santana-mn0000175196" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Carlos Santana</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/neal-schon-mn0000380149" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Neal Schon</a><span style="color: rgb(187, 187, 187);">&nbsp;/&nbsp;</span><a href="http://www.allmusic.com/artist/michael-shrieve-mn0000460761" style="color: rgb(93, 93, 93); text-decoration: initial; outline: none; float: none; font-size: 1.083em; line-height: 16px;">Michael Shrieve</a></div>
+					</td>
+					<td class="performer secondary_link" style="padding: 4px 0px 4px 20px; width: 200px; line-height: 13px;">
+						<div class="primary">
+							<a href="http://www.allmusic.com/artist/santana-mn0000295756" style="color: rgb(51, 51, 51); text-decoration: initial; outline: none;">Santana</a></div>
+					</td>
+					<td class="time" style="padding: 0px; width: 50px; text-align: center;">
+						6:41</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+					<td class="stream" style="padding: 0px 4px 0px 0px; width: 22px; text-align: center;">
+						&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</p>
+<p>
+	&nbsp;</p>";i:3;s:44:"c7102b7d4812edd3a2a71ca2d731b5380b0b4f77.gif";i:4;i:1;}s:5:"types";a:4:{i:1;i:2;i:2;i:2;i:3;i:2;i:4;i:1;}s:11:"executionMS";d:0.005053997039794921875;s:11:"explainable";b:1;}i:5;a:5:{s:3:"sql";s:8:""COMMIT"";s:6:"params";a:0:{}s:5:"types";N;s:11:"executionMS";d:0.103806018829345703125;s:11:"explainable";b:1;}}}s:11:"connections";a:1:{s:7:"default";s:32:"doctrine.dbal.default_connection";}s:8:"managers";a:1:{s:7:"default";s:35:"doctrine.orm.default_entity_manager";}s:8:"entities";a:1:{s:7:"default";a:5:{i:0;s:26:"FOS\UserBundle\Entity\User";i:1;s:25:"YM\UserBundle\Entity\User";i:2;s:26:"YM\TestBundle\Entity\Album";i:3;s:27:"YM\TestBundle\Entity\Artist";i:4;s:27:"YM\TestBundle\Entity\Artist";}}s:6:"errors";a:1:{s:7:"default";a:2:{s:26:"YM\TestBundle\Entity\Album";a:1:{i:0;s:118:"Field 'file' in class 'YM\TestBundle\Entity\Album' must be private or protected. Public fields may break lazy-loading.";}s:27:"YM\TestBundle\Entity\Artist";a:2:{i:0;s:122:"Field 'picture' in class 'YM\TestBundle\Entity\Artist' must be private or protected. Public fields may break lazy-loading.";i:1;s:119:"Field 'file' in class 'YM\TestBundle\Entity\Artist' must be private or protected. Public fields may break lazy-loading.";}}}}}}s:2:"ip";s:9:"127.0.0.1";s:6:"method";s:4:"POST";s:3:"url";s:59:"http://www.localhost.com/Symfony/web/app_dev.php/Album/add/";s:4:"time";i:1360320313;}
